@@ -1,5 +1,5 @@
-Manejo básico de vectores en c++
-
+Manejo básico de vectores en GO
+https://onlinegdb.com/l1jCgVqDy
 
 Esta rutina pide ingresar cierto número de enteros y calcula el valor mayor
 
